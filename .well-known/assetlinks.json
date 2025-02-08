@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_links"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.sholyg.moneyluggage",
+    "sha256_cert_fingerprints": [
+      "907AD4C4F9B9C115D5479CBBE75BFE832D5AACEC8BBCF07C50C415E5A2248CA0"
+    ]
+  }
+}]
